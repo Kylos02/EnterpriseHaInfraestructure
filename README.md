@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeAuto" alt="Header" style="max-width:100%;" />
 
-<h1 align="center">🏗️ Enterprise High-Availability Infrastructure</h1>
+<h1 align="center">Enterprise High-Availability Infrastructure</h1>
 <h3 align="center">Final Project · Internet Services Administration · UNAM FI · 2026-2</h3>
 
 <p align="center">
