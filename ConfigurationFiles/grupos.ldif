@@ -1,0 +1,9 @@
+dn: cn=Residentes,ou=residentes,dc=arquitectura,dc=local
+objectClass: groupOfNames
+cn: Residentes
+member: uid=apozos,ou=residentes,dc=arquitectura,dc=local
+
+dn: cn=Directores,ou=directores,dc=arquitectura,dc=local
+objectClass: groupOfNames
+cn: Directores
+member: uid=asilverio,ou=directores,dc=arquitectura,dc=local
