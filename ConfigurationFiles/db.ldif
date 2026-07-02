@@ -1,0 +1,10 @@
+dn: olcDatabase={2}mdb,cn=config
+changetype: modify
+replace: olcSuffix
+olcSuffix: dc=arquitectura,dc=local
+-
+replace: olcRootDN
+olcRootDN: cn=Manager,dc=arquitectura,dc=local
+-
+add: olcRootPW
+olcRootPW: 
