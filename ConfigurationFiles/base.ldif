@@ -1,0 +1,23 @@
+dn: dc=arquitectura,dc=local
+objectClass: top
+objectClass: dcObject
+objectClass: organization
+o: Firma Arquitectura
+dc: arquitectura
+
+dn: cn=Manager,dc=arquitectura,dc=local
+objectClass: organizationalRole
+cn: Manager
+description: Administrador del Directorio
+
+dn: ou=contratistas,dc=arquitectura,dc=local
+objectClass: organizationalUnit
+ou: contratistas
+
+dn: ou=directores,dc=arquitectura,dc=local
+objectClass: organizationalUnit
+ou: directores
+
+dn: ou=residentes,dc=arquitectura,dc=local
+objectClass: organizationalUnit
+ou: residentes
