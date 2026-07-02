@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeAuto&text=Los%20Soles%20de%20México&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=38" alt="Header" style="max-width:100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeAuto" alt="Header" style="max-width:100%;" />
 
 <h1 align="center">🏗️ Enterprise High-Availability Infrastructure</h1>
 <h3 align="center">Final Project · Internet Services Administration · UNAM FI · 2026-2</h3>
