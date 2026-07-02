@@ -1,0 +1,6 @@
+dn: uid=mrodriguez,ou=residentes,dc=arquitectura,dc=local
+objectClass: inetOrgPerson
+uid: mrodriguez
+sn: Rodriguez
+cn: Manuel Rodriguez
+userPassword: admin123
