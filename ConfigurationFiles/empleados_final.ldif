@@ -1,0 +1,21 @@
+dn: ou=residentes,dc=arquitectura,dc=local
+objectClass: organizationalUnit
+ou: residentes
+
+dn: ou=directores,dc=arquitectura,dc=local
+objectClass: organizationalUnit
+ou: directores
+
+dn: uid=apozos,ou=residentes,dc=arquitectura,dc=local
+objectClass: inetOrgPerson
+uid: apozos
+sn: Pozos
+cn: Angel Pozos
+userPassword: admin123
+
+dn: uid=asilverio,ou=directores,dc=arquitectura,dc=local
+objectClass: inetOrgPerson
+uid: asilverio
+sn: Silverio
+cn: Andres Silverio
+userPassword: admin123
